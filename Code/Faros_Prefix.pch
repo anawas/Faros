@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Faros' target in the 'Faros' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
